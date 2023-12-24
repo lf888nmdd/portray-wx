@@ -23,7 +23,7 @@ onMounted(() => {
 })
 
 const title:yy = reactive({
-	title:'456789999000'
+	title:'demo'
 }) as any
 </script>
 
